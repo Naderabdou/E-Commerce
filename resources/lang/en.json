@@ -1,0 +1,7 @@
+{
+    "لون الأسم": "Name Color",
+    "لون الخلفية": "Background Color",
+    "لون الحدود": "Border Color",
+    "لون الزر": "Button Color",
+    "image_error": "The image dimensions should be less than 600x800 pixels."
+}
